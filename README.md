@@ -1,4 +1,4 @@
-# Submarino-Seleniu
+# Submarino-Selenium
 
 Programa que utilizando o framework Selenium, navega pelo site do submarino.
 
